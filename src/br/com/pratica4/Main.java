@@ -6,6 +6,6 @@ public class Main {
         Questao2 q2 = new Questao2();
 
         q1.NotacaoPolonesa();
-        q2.TadDoquer();
+        q2.ArrayDeque();
     }
 }
